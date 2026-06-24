@@ -1,0 +1,39 @@
+[INFO] 2026-06-22 12:40:58.317655-04:00 FakeOMS Initialized
+[INFO] 2026-06-22 12:40:58.339928-04:00 Position Manager Initialized
+[INFO] 2026-06-22 12:40:58.340773-04:00 Execution Service Initialized
+[INFO] 2026-06-22 12:41:00.014418-04:00 FakeOMS Initialized
+[INFO] 2026-06-22 12:41:00.019394-04:00 Position Manager Initialized
+[INFO] 2026-06-22 12:41:00.020089-04:00 Execution Service Initialized
+[INFO] 2026-06-22 12:43:08.701946-04:00 External PM Order | NVDA | 1000.0
+[ERROR] 2026-06-22 12:43:08.705588-04:00 Execution API Failed | ExecutionService.submit_order() got an unexpected keyword argument 'symbol'
+[INFO] 2026-06-22 12:49:01.852255-04:00 FakeOMS Initialized
+[INFO] 2026-06-22 12:49:01.859475-04:00 Position Manager Initialized
+[INFO] 2026-06-22 12:49:01.860660-04:00 Execution Service Initialized
+[INFO] 2026-06-22 12:49:54.070801-04:00 External PM Order | NVDA | 1000.0
+[INFO] 2026-06-22 12:49:54.072023-04:00 Order State Machine Initialized
+[INFO] 2026-06-22 12:49:54.075484-04:00 Parent Order Created | NVDA | BUY | Qty: 1000.0
+[INFO] 2026-06-22 12:49:54.078387-04:00 Order Transition | 69570cef-0673-44c2-89dc-fd75ea919ef2 | PENDING -> RUNNING
+[INFO] 2026-06-22 12:49:54.117268-04:00 Execution Started | NVDA | VWAP
+[INFO] 2026-06-22 12:49:54.121552-04:00 Publishing Event | EXECUTION_STARTED
+[INFO] 2026-06-22 12:49:54.122678-04:00 Publishing Event | ORDER_UPDATE
+[WARNING] 2026-06-22 12:49:54.124166-04:00 No market volume available
+[INFO] 2026-06-22 12:49:54.125722-04:00 Starting Execution Schedule | 0 slices
+[INFO] 2026-06-22 12:49:54.126728-04:00 Execution Schedule Completed
+[INFO] 2026-06-22 12:49:54.128894-04:00 Order Transition | 69570cef-0673-44c2-89dc-fd75ea919ef2 | RUNNING -> COMPLETED
+[INFO] 2026-06-22 12:49:54.139355-04:00 Execution Saved | storage/executions/UNKNOWN_2026-06-22_12-49-54.json
+[INFO] 2026-06-22 12:49:54.141070-04:00 Publishing Event | EXECUTION_COMPLETED
+[INFO] 2026-06-22 12:49:54.142176-04:00 Publishing Event | ORDER_UPDATE
+[INFO] 2026-06-22 12:49:54.143199-04:00 Execution Completed | NVDA
+[INFO] 2026-06-22 13:26:19.387596-04:00 FakeOMS Initialized
+[INFO] 2026-06-22 13:26:19.399245-04:00 Position Manager Initialized
+[INFO] 2026-06-22 13:26:19.399785-04:00 Execution Service Initialized
+[INFO] 2026-06-22 13:26:21.166664-04:00 FakeOMS Initialized
+[INFO] 2026-06-22 13:26:21.168896-04:00 Position Manager Initialized
+[INFO] 2026-06-22 13:26:21.170708-04:00 Execution Service Initialized
+[INFO] 2026-06-23 02:22:42.336672-04:00 FakeOMS Initialized
+[INFO] 2026-06-23 02:22:42.352708-04:00 Position Manager Initialized
+[INFO] 2026-06-23 02:22:42.353329-04:00 Execution Service Initialized
+[INFO] 2026-06-23 02:22:44.277805-04:00 FakeOMS Initialized
+[INFO] 2026-06-23 02:22:44.281306-04:00 Position Manager Initialized
+[INFO] 2026-06-23 02:22:44.282114-04:00 Execution Service Initialized
+[WARNING] 2026-06-23 13:03:36.766137-04:00 FASTAPI Runtime Mode | SIMULATION
